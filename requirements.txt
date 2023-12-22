@@ -1,1 +1,4 @@
-streamlit_option_menu
+openai
+streamlit
+streamlit-extras
+streamlit-option-menu
